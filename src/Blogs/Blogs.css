@@ -1,0 +1,48 @@
+.card-div {
+    background: rgb(255 255 255 / 2%);
+    box-shadow: 12px 10px 20px 12px rgba(0, 0, 0, 10%);
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    max-height: 86vh;
+    overflow-y: auto;
+}
+
+.card-style
+{
+    background: #0000000f;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+}
+.card-style2
+{
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    background-image: linear-gradient(to right, #100b3c, #3a327cbf);
+    padding: 12px 20px;
+    max-height: 18vh;
+    overflow-y: auto;
+}
+
+.modal-body
+{
+    color: rgb(64, 64, 64);
+    background: radial-gradient(to right, #adaaccbf, #adaaccbf);;
+}
+
+.modal-header
+{
+    background: #211966;
+    color: white;
+}
+
+.modal-footer
+{
+    background: #211966 !important;
+    color: white !important;
+}
+
+.modal-content
+{
+    box-shadow: 6px 6px 24px 3px #04047291;
+}
